@@ -1,0 +1,5 @@
+home: 
+1- my brain yazısını büyült ve bir şaka ekle.
+2- daha effectif olması açısından transition ekle.
+3- görsel isimlerini değiştir.
+
