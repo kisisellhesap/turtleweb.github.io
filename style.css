@@ -1169,10 +1169,10 @@ height: 200px;
 @media screen and  (min-height:850px) {
 
     .home-correct {
-        flex-direction:column;
+
         justify-content: space-between;
         /* background-color: saddlebrown; */
-        overflow-y: scroll;
+
     
     }
     .about-me {
